@@ -1,4 +1,4 @@
-🚀 Hi, I'm Said — Data Engineer & BI Developer
+🚀 Hi, I'm Sakit — Data Engineer & BI Developer
 🔧 I build data pipelines, ETL processes, analytics automation, dashboards and complex reporting systems.
 
 I specialize in:
