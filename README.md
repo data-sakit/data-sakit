@@ -3,9 +3,9 @@
 
 I specialize in:
 
-Airflow (DAGs, ETL pipelines, scheduling)
+Airflow (DAGs, ETL pipelines, scheduling) + DBT (Kimbala)
 
-Python (pandas, SQLAlchemy, ClickHouse Driver)
+Python
 
 SQL (MSSQL, ClickHouse)
 
